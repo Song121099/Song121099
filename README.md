@@ -28,7 +28,7 @@ Cloud / DevOps 엔지니어로서 클라우드 환경과 관련 기술에 대한
 - **LinkedIn**: [Subin Song](https://www.linkedin.com/in/%EC%88%98%EB%B9%88-%EC%86%A1-691576286/)
 
 ## 💼 Experience
-- **Current Position**: DevOps Engineer at **Gbike** (2024.11-2025.08) Cloud Engineer at **유호스트 (Cloud MSP)**(2023.08 - 2024.11)
+- **Current Position**: DevOps Engineer at **Gbike** (2024.11-2025.07) Cloud Engineer at **유호스트 (Cloud MSP)**(2023.08 - 2024.11)
 
 ## 🎯 About Me
 책임감 있고, 끈기를 가지고 문제를 해결하며 뛰어난 커뮤니케이션 능력을 바탕으로 팀과 효과적으로 협업합니다. 
