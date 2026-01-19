@@ -10,6 +10,22 @@ Cloud / DevOps 엔지니어로서 클라우드 환경과 관련 기술에 대한
 - **Development**: Python, SQL
 - **DevOps Tools**: Docker, Linux, Ansible
 
+## Repositories
+### 1. Shell Automation
+🔗 link
+- 운영 중 반복되던 작업 자동화
+- Bash 기반 AWS 리소스 관리 스크립트
+
+### 2. Terraform Practice
+🔗 link
+- 기존 인프라 환경에서 Terraform 도입 연습
+- import, module 설계 경험
+
+### 3. CI/CD Pipelines
+🔗 link
+- GitHub Actions 기반 ECS / S3 배포 파이프라인
+- dev/prod 분리 전략
+
 ## 📌 Projects
 - **AWS 마이그레이션 및 EKS 구축**
   :금융 보안 하이브리드 클라우드 아키텍처 설계 및 구현
